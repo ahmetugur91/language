@@ -3,7 +3,7 @@
 <ul>
 <li>It must cross language learning.</li>
 <li>Users can take each language corse from own language.</li>
-<li>Courses have levels.</li>
+<li>Tests have levels.</li>
 <li>Each course level must have different parts
     <ul>
         <li>A1 Learning</li>
